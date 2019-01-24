@@ -1,0 +1,6 @@
+requests
+requests_cache
+nltk
+pdfplumber
+prompt_toolkit
+pdfrw
