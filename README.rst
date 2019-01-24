@@ -3,6 +3,9 @@ README
 
 .. image:: https://travis-ci.com/MCodeLab/udn-nlp.svg?branch=master
     :target: https://travis-ci.com/MCodeLab/udn-nlp
+.. image:: https://readthedocs.org/projects/udn-nlp/badge/?version=latest
+:target: https://udn-nlp.readthedocs.io/en/latest/?badge=latest
+:alt: Documentation Status
 
 Utilities for applying NLTK natural language processing to the Utah Digital Newspapers archive.
 
