@@ -1,6 +1,9 @@
 README
 ======
 
+.. image:: https://travis-ci.com/MCodeLab/udn-nlp.svg?branch=master
+    :target: https://travis-ci.com/MCodeLab/udn-nlp
+
 Utilities for applying NLTK natural language processing to the Utah Digital Newspapers archive.
 
 Setup (All systems)
